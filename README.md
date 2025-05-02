@@ -16,7 +16,7 @@
 
 ---
 
-<h2><strong>💼 Tech Stack</strong></h2>
+# 💼 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-<h2><strong>📊 GitHub Stats</strong></h2>
+# 📊 GitHub Stats
 
   <details>
   <summary>Click to view</summary>
@@ -49,13 +49,13 @@
 
 ---
 
-<h2><strong>📫 Get in Touch</strong></h2>
+# 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-anjum02/)
 
 ---
 
-<h2><strong>🌐 Socials</strong></h2>
+<h3><strong>🌐 Socials</strong></h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hussain.anjum.02/)
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hussain_anjum02)
