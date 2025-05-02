@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hussain-anjum
+- 🎓 CSE undergrad @JKKNIU
+- 🧑‍💻 Full Stack Dev (Python | Django | React | FastAPI)
+- 🔐 Cybersecurity Enthusiast | Pen Testing | CTFs
+- 🌱 Currently learning: Red Team Tools, Network Security
+- 📫 How to reach me: haratul14@gmail.com
