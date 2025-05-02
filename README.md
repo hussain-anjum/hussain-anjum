@@ -1,16 +1,22 @@
-<h1 align="center">Hey there, I'm Md. Hussain Anjum Ratul👋</h1>
+<h1 align="center">Hi 👋, I'm Md. Hussain Anjum Ratul</h1>
 
 <p align="center">
-- 🎓 CSE undergrad @JKKNIU
-- 🧑‍💻 Full Stack Dev (Python | Django | React | FastAPI)
-- 🔐 Cybersecurity Enthusiast | Pen Testing | CTFs
-- 🌱 Currently learning: Red Team Tools, Network Security
-- 📫 How to reach me: haratul14@gmail.com
+🎓 CSE undergrad @JKKNIU </br>
+🧑‍💻 Full Stack Dev (Python | Django | React | FastAPI)</br>
+🔐 Cybersecurity Enthusiast | Pen Testing | CTFs</br>
+🌱 Currently learning: Red Team Tools, Network Security</br>
+📫 How to reach me: haratul14@gmail.com
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-anjum&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-anjum" /> </p>
 
 ---
 
-💼 Tech Stack
+<h2><strong>💼 Tech Stack</strong></h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,9 +35,9 @@
 
 ---
 
-📊 GitHub Stats
+<h2><strong>📊 GitHub Stats</strong></h2>
 
-<details>
+  <details>
   <summary>Click to view</summary>
 
   <p align="center">
@@ -43,19 +49,15 @@
 
 ---
 
-📫 Get in Touch
+<h2><strong>📫 Get in Touch</strong></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-anjum02/)
 
 ---
 
-🌐 Socials
+<h2><strong>🌐 Socials</strong></h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hussain.anjum.02/)
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hussain_anjum02)
 
 ---
-
-<p align="center">
-  <img src="https://undraw.co/api/illustrations/3d-avatar-dev.svg" width="300"/>
-</p>
