@@ -62,9 +62,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussain-anjum&show_icons=true&theme=one_dark_pro" /> <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-anjum&theme=one_dark_pro" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-anjum&layout=compact&theme=one_dark_pro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hussain-anjum&show_icons=true&theme=one_dark_pro&hide_border=false" /> <br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hussain-anjum&theme=one_dark_pro&hide_border=false" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-anjum&layout=compact&theme=one_dark_pro&hide_border=false" />
 </p>
 
 ---
