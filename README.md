@@ -4,9 +4,9 @@
 
 <p align="center">
 🎓 CSE undergrad @JKKNIU </br>
-🧑‍💻 Full Stack Dev (Python | Django | React | FastAPI)</br>
-🔐 Cybersecurity Enthusiast | Pen Testing | CTFs</br>
-🌱 Currently learning: Red Team Tools, Network Security</br>
+🧑‍💻 Passionate about Web Development & Cybersecurity <br>
+🔐 Exploring Pen Testing & CTFs</br>
+🌱 Currently learning: Django, REST APIs & Next.js</br>
 📫 How to reach me: <a href="mailto:haratul14@gmail.com">haratul14@gmail.com</a>
 </p>
  
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
-### ⚙️ Backend  
+### ⚙️ Backend & Databases
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
