@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-🎓 CSE undergrad @JKKNIU </br>
-🧑‍💻 Passionate about Web Development & Cybersecurity <br>
-🔐 Exploring Pen Testing & CTFs</br>
-🌱 Currently learning: Django, REST APIs & Next.js</br>
+🎓 CSE undergrad @JKKNIU <br>
+🧑‍💻 Passionate about Web Development and Cybersecurity <br>
+🔐 Exploring Pen Testing & CTFs<br>
+🌱 Currently learning: Django, REST APIs, Next.js<br>
 📫 How to reach me: <a href="mailto:haratul14@gmail.com">haratul14@gmail.com</a>
 </p>
  
@@ -14,7 +14,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-anjum&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-anjum" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hussain-anjum&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
@@ -36,7 +38,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 ### ⚙️ Backend & Databases
@@ -44,7 +45,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
