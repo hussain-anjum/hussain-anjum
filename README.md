@@ -5,8 +5,8 @@
 <p align="center">
 🎓 CSE undergrad @JKKNIU <br>
 🧑‍💻 Passionate about Web Development and Cybersecurity <br>
-🔐 Exploring Pen Testing & CTFs<br>
-🌱 Currently learning: Django, REST APIs, Next.js<br>
+🔐 Exploring Pen Testing<br>
+🌱 Currently learning: Django, REST APIs<br>
 📫 How to reach me: <a href="mailto:haratul14@gmail.com">haratul14@gmail.com</a>
 </p>
  
