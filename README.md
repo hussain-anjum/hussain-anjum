@@ -48,9 +48,24 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hussain-anjum&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
+</p>
+
+---
+
+## ⌛ Coding Time
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@c6d6ff4d-9620-4422-90aa-0fdf4ed0ae2c&custom_title=Weekly%20Coding%20Stats&theme=one_dark_pro&hide_border=false&layout=compact&langs_count=8" 
+    alt="WakaTime Stats"
+  />
+</p>
+<p align="center">
+  <a href="https://wakatime.com/@c6d6ff4d-9620-4422-90aa-0fdf4ed0ae2c">
+    <img src="https://wakatime.com/badge/user/c6d6ff4d-9620-4422-90aa-0fdf4ed0ae2c.svg?style=for-the-badge" alt="WakaTime badge" />
+  </a>
 </p>
 
 ---
