@@ -6,7 +6,7 @@
 🎓 CSE undergrad @JKKNIU <br>
 🧑‍💻 Passionate about Web Development and Cybersecurity <br>
 🔐 Exploring Pen Testing<br>
-🌱 Currently learning: Django, REST APIs<br>
+🌱 Currently learning JavaScript & React<br>
 📫 How to reach me: <a href="mailto:haratul14@gmail.com">haratul14@gmail.com</a>
 </p>
  
